@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Kelomook 5
 PBO-C
 1. Tangguh Chairunnisa (21120122140103)
